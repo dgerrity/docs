@@ -88,3 +88,6 @@
 - **Santorini:** Akrotiri Archaeological Site, Pyrgos, Megalochori
 - **Milos:** Kleftiko Bay, Ancient Theater, Catacombs
 - **Crete:** Heraklion Archaeological Museum, Knossos Palace, local villages like Archanes, Anogeia
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NjAwOTgzMTJdfQ==
+-->

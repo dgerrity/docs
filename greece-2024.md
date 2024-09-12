@@ -87,7 +87,9 @@
 - **Athens:** Temple of Hephaestus, Epigraphic Museum
 - **Santorini:** Akrotiri Archaeological Site, Pyrgos, Megalochori
 - **Milos:** Kleftiko Bay, Ancient Theater, Catacombs
-- **Crete:** Heraklion Archaeological Museum, Knossos Palace, local villages like Archanes, Anogeia# Enhanced Greece Trip Ideas
+- **Crete:** Heraklion Archaeological Museum, Knossos Palace, local villages like Archanes, Anogeia
+
+# Enhanced Greece Trip Ideas
 
 ---
 
